@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Devon Morris 👋
+Sofware minimalism and craftmanship is my thing. I love linux, (neo)vim and the open-source movement. My goal is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
 
 <!--
 **DevonMorris/DevonMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
