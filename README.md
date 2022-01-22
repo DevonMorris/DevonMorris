@@ -1,5 +1,5 @@
 ### Hi there, I'm Devon Morris 👋
-Software minimalism and craftmanship is my thing. I love Linux, Neovim and the open-source movement. My goal is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
+Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the open-source movement. My goal is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
 
 <!--
 **DevonMorris/DevonMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
