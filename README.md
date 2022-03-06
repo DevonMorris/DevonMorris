@@ -1,17 +1,18 @@
-### Hi there, I'm Devon Morris 👋
+# Hi there, I'm Devon Morris 👋
 Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the open-source movement. My goal is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
 
-<!--
-**DevonMorris/DevonMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* Robotics
+* C++
+* Vim
 
-Here are some ideas to get you started:
+## Hobbies
+* [Chicken Sandwich Connoisseur](https://github.com/DevonMorris/chicken_sando)
+* [Rowing](https://log.concept2.com/profile/1546802)
+* [Dying in From Software games](https://www.youtube.com/watch?v=ltxMZgAyIBA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What people say about me
+
+> has the personality of a charming housewife that often hosts gatherings to a diverse group of friends often
+
+Cody McClintock
