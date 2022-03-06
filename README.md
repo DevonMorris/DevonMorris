@@ -13,6 +13,10 @@ Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the 
 
 ## What people say about me
 
-> has the personality of a charming housewife that often hosts gatherings to a diverse group of friends often
+> has the personality of a charming housewife that hosts gatherings to a diverse group of friends often
 
 Cody McClintock
+
+> The kind of guy that would order a chicken sandwich from a mexican restaurant
+
+Chris Reid
