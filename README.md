@@ -10,6 +10,7 @@ Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the 
 * [Chicken Sandwich Connoisseur](https://github.com/DevonMorris/chicken_sando)
 * [Rowing](https://log.concept2.com/profile/1546802)
 * [Dying in From Software games](https://www.youtube.com/watch?v=ltxMZgAyIBA)
+* [Super inconsistent microblogger](https://devonmorris.dev/34bf05e7.html)
 
 ## What people say about me
 
