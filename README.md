@@ -22,3 +22,7 @@ Cody McClintock
 > The kind of guy that would order a chicken sandwich from a mexican restaurant
 
 Chris Reid
+
+> You are a sponge sir
+
+Tim Zuercher
