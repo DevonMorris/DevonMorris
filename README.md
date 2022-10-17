@@ -26,3 +26,7 @@ Chris Reid
 > You are a sponge sir
 
 Tim Zuercher
+
+> I want to be his best friend
+
+Ira Hill & John Blankenhorn
