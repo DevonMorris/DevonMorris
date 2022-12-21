@@ -1,5 +1,9 @@
 # Hi there, I'm Devon Morris 👋
-Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the open-source movement. My goal is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
+My life mission is to create simple, generic, and highly-flexible systems to solve the biggest problems in autonomy and robotics.
+
+I have broad background in mathematics, electrical engineering and computer science that has put me on the path to achieve this mission.
+
+I currently work at [Tangram Vision](https://www.tangramvision.com/) as a perception engineer.
 
 ## Skills
 * Robotics
@@ -11,7 +15,7 @@ Software minimalism and craftsmanship is my thing. I love Linux, Neovim and the 
 * [Repeat One Music Listener](https://github.com/DevonMorris/repeat_one)
 * [Rowing](https://log.concept2.com/profile/1546802)
 * [Dying in From Software games](https://www.youtube.com/watch?v=ltxMZgAyIBA)
-* [Super inconsistent microblogger](https://devonmorris.dev/34bf05e7.html)
+* [Super inconsistent microblogger](https://devonmorris.dev/posts)
 
 ## What people say about me
 
