@@ -17,21 +17,3 @@ I currently work at [Tangram Vision](https://www.tangramvision.com/) as a senior
 * [Rowing](https://log.concept2.com/profile/1546802)
 * [Dying in From Software games](https://www.youtube.com/watch?v=ltxMZgAyIBA)
 * [Super inconsistent microblogger](https://devonmorris.dev/posts)
-
-## What people say about me
-
-> has the personality of a charming housewife that hosts gatherings to a diverse group of friends often
-
-Cody McClintock
-
-> The kind of guy that would order a chicken sandwich from a mexican restaurant
-
-Chris Reid
-
-> You are a sponge sir
-
-Tim Zuercher
-
-> I want to be his best friend
-
-Ira Hill & John Blankenhorn
