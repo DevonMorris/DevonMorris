@@ -6,10 +6,11 @@ I have broad background in mathematics, electrical engineering and computer scie
 I currently work at [Tangram Vision](https://www.tangramvision.com/) as a senior perception engineer.
 
 ## Skills
-* Robotics
+* Robotics (All things perception)
+* Differential Geometry
 * Rust
 * C++
-* Vim
+* Neovim
 
 ## Hobbies
 * [Chicken Sandwich Connoisseur](https://github.com/DevonMorris/chicken_sando)
